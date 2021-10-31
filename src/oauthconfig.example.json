@@ -1,0 +1,14 @@
+{
+    "clientId": "YourClientId",
+    "scopes": [
+        "user-top-read",
+        "playlist-read-private",
+        "user-read-playback-state",
+        "user-read-playback-position",
+        "app-remote-control",
+        "user-read-recently-played",
+        "user-modify-playback-state",
+        "user-read-currently-playing"
+    ],
+    "redirectPort": 8123
+}
